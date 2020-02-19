@@ -1,0 +1,11 @@
+<div align="center">
+    <h2>Генератор случайных чисел</h2>
+    <p>Максимальное значение не должно превышать 100</p>
+	<form method="post" action="../random.php">
+		Минимальное значение<br>
+		<input type="text" name="minznach"><br><br>
+		Максимальное значение<br>
+		<input type="text" name="maxznach"><br><br>
+		<input type="submit" value="Сгенерировать">
+	</form>
+</div>
