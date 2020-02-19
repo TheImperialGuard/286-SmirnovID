@@ -1,3 +1,0 @@
-https://www.php.net/manual/ru/ref.strings.php - функции php
-http://old.code.mu/tasks/php/base/rabota-s-funkciyami-dlya-massivov-v-php.html - задачки old code
-https://dead142.github.io/design/ - Курсы РТК
