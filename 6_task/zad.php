@@ -1,5 +1,6 @@
 <?php
-	Class Snake {
+	Class Snake
+	{
 		
 		public $name, $state;
 		

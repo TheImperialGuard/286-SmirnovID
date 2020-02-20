@@ -1,5 +1,6 @@
 <?php
-	class Form {
+	class Form 
+	{
 		public $name, $password, $email, $upfile, $bdate;
 		function SaveFile() {
 				$destiation_dir = dirname(__FILE__) . '/uploadedFiles/' . $this->upfile['name'];
