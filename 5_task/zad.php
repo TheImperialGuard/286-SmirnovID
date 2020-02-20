@@ -1,5 +1,6 @@
 <?php
-	class Animal {
+	class Animal 
+	{
 		
 		public $name, $text, $health, $intellect, $strength, $agility;
 		
